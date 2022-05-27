@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url("https://cdn.wallpapersafari.com/43/22/JW5cqy.jpg");
+}
+
+h1 {
+  font-family: "Gloria Hallelujah", cursive;
+  color: white;
+}
